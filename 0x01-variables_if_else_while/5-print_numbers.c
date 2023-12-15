@@ -9,7 +9,12 @@ int main(void)
 {
 	int count = 0;
 
-	for (count'=0'; count'<=9'; count++)
+	while (count <= 9)
+	{
 		printf("count = %d\n", count);
+		count++;
+	}
+	print("\n");
+
 	return (0);
 }
