@@ -5,8 +5,7 @@
 /**
  *main - entery point
  *
- *Description: true and false validation
- *
+ *Description: print value of n
  *Return: 0 (success)
 */
 
