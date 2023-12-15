@@ -6,7 +6,7 @@
  *
  *Description:print the value of n status,greater than,is zeor and less than 6
  *
- *Return: Alwayss 0 (success)
+ *Return: Alwayss 0 (Success)
 */
 
 int main(void)

@@ -4,7 +4,7 @@
  *
  * Description: print all alphabe letters
  *
- * Return: Always 0 (success)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
