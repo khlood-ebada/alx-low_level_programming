@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int count;
+	int count = 0;
 
 	for (count'=0'; count'<=9'; count++)
 		printf("count = %d\n", count);
