@@ -2,7 +2,9 @@
 
 /**
  * main - Entry point
+ *
  * Description: print lowecase exept q and e
+ *
  * Return: Always 0 (Success)
 */
 
