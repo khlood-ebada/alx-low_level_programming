@@ -6,7 +6,7 @@
  *
  *Description:print the value of n status,greater than,is zeor and less than 6
  *
- *Return: Alwayss 0 (Success)
+ *Return: Always 0 (Success)
 */
 
 int main(void)
@@ -19,7 +19,7 @@ int main(void)
 		printf("Last digit of %d is %d and is greater than 5\n", n, digit);
 	else if (digit == 0)
 		printf("Last digit of %d is %d and is 0\n", n, digit);
-	else if (digit < 6 && != 0)
+	else if (digit < 6 '&& != 0')
 		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, digit);
 	return (0);
 }
