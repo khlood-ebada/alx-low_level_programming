@@ -7,12 +7,12 @@
 
 int main(void)
 {
-	int count = 0;
+	int digit = 0;
 
-	while (count <= 9)
+	while digit <= 9)
 	{
-		printf("count = %d\n", count);
-		count++;
+		printf("digit = %d\n", digit);
+		digit++;
 	}
 	print("\n");
 
