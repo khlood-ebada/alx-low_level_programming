@@ -1,6 +1,6 @@
 #include<stdio.h>
 /**
- * main - entery point
+ * main - Entery point
  *
  * Description: print all alphabe letters
  *
