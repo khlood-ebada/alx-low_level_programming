@@ -5,7 +5,8 @@
 /**
  *main - entery point
  *
- *Description: print value of n
+ *Description:  print the value of n status, greater than, is zeor and is less than 6
+ *
  *Return: 0 (success)
 */
 
