@@ -3,7 +3,9 @@
 #include<stdio.h>
 /**
  *main - entery point
+ *
  *Description:print the value of n status,greater than,is zeor and less than 6
+ *
  *Return:0(success)
 */
 
