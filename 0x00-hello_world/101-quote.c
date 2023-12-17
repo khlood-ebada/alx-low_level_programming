@@ -2,7 +2,8 @@
 #include<unistd.h>
 /**
  * main - Entery point
- * Return 1 (Success)
+ * Description: print a line to standard error
+ * Return: 1 (Success)
  */
 
 int main(void)
