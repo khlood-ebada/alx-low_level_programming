@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-/*
- * main - prints the name of the file
- *
- * Return: Always 0 (Success)
- */
+/**
+* main - a program that prints the name of the file
+*
+* Return: Always 0
+*/
 
 int main(void)
 {
