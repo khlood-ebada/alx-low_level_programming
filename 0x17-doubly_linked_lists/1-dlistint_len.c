@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * dlistint_len.c - count elements of the list
+ * dlistint_len - count elements of the list
  * @h: pointer to the first node
  * Return: size of list
  */
